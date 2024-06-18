@@ -10,3 +10,4 @@ this scrypt creates a number of BMP files at high speeds with random colours. th
 make sure to install pillow(PIL) and numpy, by using `pip install pillow` and `pip install numpy`
 
 have fun with this scrypt!!!
+Note: the scrypt is so unreadable on purpose for... copy... reasons. If you want a version that is readable look at DONTRUNbetter.py

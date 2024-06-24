@@ -20,7 +20,7 @@ def generate_image(image_index, width, height, base_dir):
 
     # Create a folder for the image
     folder_name = f'folder{image_index}'
-    folder_path = os.path.join(base_dir, folder_name)
+    folder_path = "generated_images
     create_directory(folder_path)
 
     # Save the image as a BMP file
